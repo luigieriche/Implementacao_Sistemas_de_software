@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/dodo/Clinica/src/BancoDeDados/Persistencia.java</file>
+            <file>file:/F:/dodo/Clinica/src/view/TelaPrincipalAdmin.java</file>
+            <file>file:/F:/dodo/Clinica/hibernate.reveng.xml</file>
+            <file>file:/F:/dodo/Clinica/src/view/Login.java</file>
+            <file>file:/F:/dodo/Clinica/src/modelo/Admin.java</file>
+            <file>file:/F:/dodo/Clinica/src/modeloDAO/DAOHibernateUtil.java</file>
+            <file>file:/F:/dodo/Clinica/src/BancoDeDados/HibernateUtil.java</file>
+            <file>file:/F:/dodo/Clinica/src/controle/Usuario.java</file>
+            <file>file:/F:/dodo/Clinica/src/BancoDeDados/GeradorDeBanco.java</file>
+            <file>file:/F:/dodo/Clinica/src/modeloDAO/ConsultaDAO.java</file>
+            <file>file:/F:/dodo/Clinica/src/hibernate.reveng.xml</file>
+            <file>file:/F:/dodo/Clinica/src/controle/Usuario.hbm.xml</file>
+            <file>file:/F:/dodo/Clinica/src/view/medico/CadastrarMedico.java</file>
+            <file>file:/F:/dodo/Clinica/src/hibernate.cfg.xml</file>
+        </group>
+    </open-files>
+</project-private>

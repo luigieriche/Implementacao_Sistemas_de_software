@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated 26/09/2014 13:57:55 by Hibernate Tools 3.6.0 -->
+<hibernate-mapping>
+    <class name="Controle.Usuario" table="usuario" catalog="clinica">
+        <id name="idusuario" type="java.lang.Integer">
+            <column name="idusuario" />
+            <generator class="identity" />
+        </id>
+        <property name="usuarioUser" type="string">
+            <column name="usuario_user" length="45" not-null="true" />
+        </property>
+        <property name="usuarioPassword" type="string">
+            <column name="usuario_password" length="45" not-null="true" />
+        </property>
+    </class>
+</hibernate-mapping>
